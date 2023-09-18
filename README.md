@@ -1,2 +1,3 @@
-# DS-Journey
+# My Data Science Journey 🗃️🧭
+
 Data Science Portfolio 
