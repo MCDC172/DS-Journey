@@ -1,0 +1,4 @@
+# ☕ Coffee sales
+> Insights
+
+data
