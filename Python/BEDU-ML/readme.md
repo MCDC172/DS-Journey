@@ -1,4 +1,4 @@
-# Predictive segmentation of customers who cancel credit cards
+# 🏦 Predictive segmentation of customers who cancel credit cards
 > Team project for the accreditation of the Machine Learning module of the BEDU Data Science course.
 > The `ProyectoEq8` file is in spanish.
 
