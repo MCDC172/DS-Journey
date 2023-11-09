@@ -1,3 +1,3 @@
 # Python Projects
 
-> Machine Learning project, coming soon
+(Predictive segmentation of customers who cancel credit cards)[https://github.com/MCDC172/DS-Journey/tree/main/Python/BEDU-ML]
